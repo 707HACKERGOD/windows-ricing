@@ -10,8 +10,9 @@ If you have Windows 11 but want to cosplay Linux
 🌟 Setup to recreate the screenshots 🌟 ₍^. .^₎⟆
 1. Get Python 3, Ubuntu and fish terminal set up, I used the Linux packaged with windows 11 by default
 3. Get YASB, Komorebi for YASB, Flow launcher. Optionally, I also used pipes.sh, winfetch, cmatrix, cava for windows. All of them can be customized further individually
-4. Send the .py to any free AI in case there are any problems, there are all needed diagnostic tools included
-5. WIP: you'll have to edit the paths to wallpaper and music folders, and per every theme you need wallpaper + YASB color theme + song
+4. For removing windows default task bar, right click it and change task bar settings. Also set wallpaper to "Picture" mode. Optionally use Windhawk to get a custom taskbar instead
+5. Send the .py to any free AI in case there are any problems, there are all needed diagnostic tools included
+6. WIP: you'll have to edit the paths to wallpaper and music folders, and per every theme you need wallpaper + YASB color theme + song
 ---
 ![Screenshot](Screenshot%202026-10-04%20051314.png)
 ![Screenshot](Screenshot%202026-10-04%20051346.png)
