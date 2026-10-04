@@ -13,12 +13,13 @@ If you have Windows 11 but want to cosplay Linux
 4. Send the .py to any free AI in case there are any problems, there are all needed diagnostic tools included
 5. WIP: you'll have to edit the paths to wallpaper and music folders, and per every theme you need wallpaper + YASB color theme + song
 ---
-![Screenshot](Screenshot%202026-10-04%20050828.png)
+![Screenshot](Screenshot%202026-10-04%20051314.png)
 https://github.com/707HACKERGOD/windows-ricing/blob/main/Screenshot%202026-10-04%20051314.png
-![Screenshot](Screenshot%202026-10-04%20050828.png)
+![Screenshot](Screenshot%202026-10-04%20051346.png)
 https://github.com/707HACKERGOD/windows-ricing/blob/main/Screenshot%202026-10-04%20051346.png
-![Screenshot](Screenshot%202026-10-04%20050828.png)
-![Screenshot](Screenshot%202026-10-04%20050828.png)
+![Screenshot](Screenshot%202026-10-04%20125617.png)
+https://github.com/707HACKERGOD/windows-ricing/blob/main/Screenshot%202026-10-04%20125617.png
+![Screenshot](Screenshot%202026-10-04%20125751.png)
 https://github.com/707HACKERGOD/windows-ricing/blob/main/Screenshot%202026-10-04%20125751.png
 ---
 Deepseek V4 + GLM 5.3
