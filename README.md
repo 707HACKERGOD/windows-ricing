@@ -1,5 +1,5 @@
 # ( ˶°ㅁ°) !! Windows Rice Orchestrator
-If you have Windows 11 but want to cosplay Linux
+A minimal, all-in-one Python script for theme, wallpaper, and music transitions with support for other apps.
 
 ![Screenshot](Screenshot%202026-10-04%20050828.png)
 ---
