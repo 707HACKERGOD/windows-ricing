@@ -1,4 +1,4 @@
-# ( ˶°ㅁ°) !! windows-ricing
+# ( ˶°ㅁ°) !! Windows Rice Orchestrator
 If you have Windows 11 but want to cosplay Linux
 
 ![Screenshot](Screenshot%202026-10-04%20050828.png)
