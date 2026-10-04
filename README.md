@@ -1,7 +1,7 @@
 # ( ˶°ㅁ°) !! windows-ricing
 If you have Windows 11 but want to cosplay Linux
 ---
-![Screenshot](Screenshot 2026-10-04 050828.png)
+![Screenshot](/Screenshot 2026-10-04 050828.png)
 ---
 - Animated transitions between themes (wallpaper blend + music blend + custom color palettes swap)
 - A vibe coded terminal script focused around doing a ricing showcase on Windows 11
