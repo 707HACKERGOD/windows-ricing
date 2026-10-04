@@ -19,6 +19,7 @@ https://github.com/707HACKERGOD/windows-ricing/blob/main/Screenshot%202026-10-04
 https://github.com/707HACKERGOD/windows-ricing/blob/main/Screenshot%202026-10-04%20051346.png
 ![Screenshot](Screenshot%202026-10-04%20050828.png)
 ![Screenshot](Screenshot%202026-10-04%20050828.png)
+https://github.com/707HACKERGOD/windows-ricing/blob/main/Screenshot%202026-10-04%20125751.png
 ---
 Deepseek V4 + GLM 5.3
 
