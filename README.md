@@ -1,7 +1,7 @@
 # ( ˶°ㅁ°) !! windows-ricing
 If you have Windows 11 but want to cosplay Linux
----
-![Screenshot](main/Screenshot%202026-10-04%20050828.png)
+
+![Screenshot](Screenshot%202026-10-04%20050828.png)
 ---
 - Animated transitions between themes (wallpaper blend + music blend + custom color palettes swap)
 - A vibe coded terminal script focused around doing a ricing showcase on Windows 11
@@ -12,6 +12,11 @@ If you have Windows 11 but want to cosplay Linux
 3. Get YASB, Komorebi for YASB, Flow launcher. Optionally, I also used pipes.sh, winfetch, cmatrix, cava for windows. All of them can be customized further individually
 4. Send the .py to any free AI in case there are any problems, there are all needed diagnostic tools included
 5. WIP: you'll have to edit the paths to wallpaper and music folders, and per every theme you need wallpaper + YASB color theme + song
+---
+![Screenshot](Screenshot%202026-10-04%20050828.png)
+![Screenshot](Screenshot%202026-10-04%20050828.png)
+![Screenshot](Screenshot%202026-10-04%20050828.png)
+![Screenshot](Screenshot%202026-10-04%20050828.png)
 ---
 Deepseek V4 + GLM 5.3
 
