@@ -16,6 +16,7 @@ If you have Windows 11 but want to cosplay Linux
 ![Screenshot](Screenshot%202026-10-04%20050828.png)
 https://github.com/707HACKERGOD/windows-ricing/blob/main/Screenshot%202026-10-04%20051314.png
 ![Screenshot](Screenshot%202026-10-04%20050828.png)
+https://github.com/707HACKERGOD/windows-ricing/blob/main/Screenshot%202026-10-04%20051346.png
 ![Screenshot](Screenshot%202026-10-04%20050828.png)
 ![Screenshot](Screenshot%202026-10-04%20050828.png)
 ---
