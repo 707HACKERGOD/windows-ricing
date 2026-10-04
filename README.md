@@ -17,7 +17,7 @@ If you have Windows 11 but want to cosplay Linux
 ![Screenshot](Screenshot%202026-10-04%20051314.png)
 ![Screenshot](Screenshot%202026-10-04%20051346.png)
 ![Screenshot](Screenshot%202026-10-04%20125617.png)
-![Screenshot](Screenshot%202026-10-04%20125751.png)
+![Screenshot](Screenshot%202026-10-04%20141235.png)
 ---
 Deepseek V4 + GLM 5.3
 
