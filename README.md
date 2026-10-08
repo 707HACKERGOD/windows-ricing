@@ -1,4 +1,4 @@
-# ( ˶°ㅁ°) !! Windows Rice Orchestrator
+# Windows Rice Orchestrator
 A minimal, all-in-one Python script for theme, wallpaper, and music transitions with support for other apps.
 
 ![Screenshot](Screenshot%202026-10-04%20050828.png)
@@ -20,6 +20,4 @@ A minimal, all-in-one Python script for theme, wallpaper, and music transitions 
 ![Screenshot](Screenshot%202026-10-04%20125617.png)
 ![Screenshot](Screenshot%202026-10-04%20141235.png)
 ---
-Deepseek V4 + GLM 5.3
-
 🪼⋆｡𖦹°🫧⋆.ೃ࿔*:･
